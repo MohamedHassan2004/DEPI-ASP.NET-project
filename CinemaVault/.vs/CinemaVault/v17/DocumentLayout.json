@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8A825-1334-48AC-BAFD-720E8AA44315}|CinemaVault.API\\CinemaVault.API.csproj|c:\\users\\wtwat2004\\onedrive\\desktop\\projects\\cinemavault\\cinemavault.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8A825-1334-48AC-BAFD-720E8AA44315}|CinemaVault.API\\CinemaVault.API.csproj|solutionrelative:cinemavault.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DBF28A-DE3A-4954-ABF2-797996577895}|CinemaVault.DAL\\CinemaVault.DAL.csproj|c:\\users\\wtwat2004\\onedrive\\desktop\\projects\\cinemavault\\cinemavault.dal\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DBF28A-DE3A-4954-ABF2-797996577895}|CinemaVault.DAL\\CinemaVault.DAL.csproj|solutionrelative:cinemavault.dal\\repository\\genrerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DBF28A-DE3A-4954-ABF2-797996577895}|CinemaVault.DAL\\CinemaVault.DAL.csproj|c:\\users\\wtwat2004\\onedrive\\desktop\\projects\\cinemavault\\cinemavault.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DBF28A-DE3A-4954-ABF2-797996577895}|CinemaVault.DAL\\CinemaVault.DAL.csproj|solutionrelative:cinemavault.dal\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8A825-1334-48AC-BAFD-720E8AA44315}|CinemaVault.API\\CinemaVault.API.csproj|c:\\users\\wtwat2004\\onedrive\\desktop\\projects\\cinemavault\\cinemavault.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8A825-1334-48AC-BAFD-720E8AA44315}|CinemaVault.API\\CinemaVault.API.csproj|solutionrelative:cinemavault.api\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77D8A825-1334-48AC-BAFD-720E8AA44315}|CinemaVault.API\\CinemaVault.API.csproj|c:\\users\\wtwat2004\\onedrive\\desktop\\projects\\cinemavault\\cinemavault.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77D8A825-1334-48AC-BAFD-720E8AA44315}|CinemaVault.API\\CinemaVault.API.csproj|solutionrelative:cinemavault.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13145E19-A831-4498-907A-27DD335E3794}|CinemaVault.BLL\\CinemaVault.BLL.csproj|c:\\users\\wtwat2004\\onedrive\\desktop\\projects\\cinemavault\\cinemavault.bll\\service\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13145E19-A831-4498-907A-27DD335E3794}|CinemaVault.BLL\\CinemaVault.BLL.csproj|solutionrelative:cinemavault.bll\\service\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13145E19-A831-4498-907A-27DD335E3794}|CinemaVault.BLL\\CinemaVault.BLL.csproj|c:\\users\\wtwat2004\\onedrive\\desktop\\projects\\cinemavault\\cinemavault.bll\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13145E19-A831-4498-907A-27DD335E3794}|CinemaVault.BLL\\CinemaVault.BLL.csproj|solutionrelative:cinemavault.bll\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\Repository\\GenreRepository.cs",
+              "RelativeDocumentMoniker": "CinemaVault.DAL\\Repository\\GenreRepository.cs",
+              "ToolTip": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\Repository\\GenreRepository.cs",
+              "RelativeToolTip": "CinemaVault.DAL\\Repository\\GenreRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:13:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "CinemaVault.DAL\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.DAL\\Repository\\Repository.cs",
+              "RelativeToolTip": "CinemaVault.DAL\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:07:28.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.BLL\\Service\\ReviewService.cs",
+              "RelativeDocumentMoniker": "CinemaVault.BLL\\Service\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.BLL\\Service\\ReviewService.cs",
+              "RelativeToolTip": "CinemaVault.BLL\\Service\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:29:49.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.API\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "CinemaVault.API\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.API\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "CinemaVault.API\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAwAAABAMzMzMzM3wCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:25:09.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.BLL\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "CinemaVault.BLL\\Service\\MovieService.cs",
+              "ToolTip": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.BLL\\Service\\MovieService.cs",
+              "RelativeToolTip": "CinemaVault.BLL\\Service\\MovieService.cs",
+              "ViewState": "AgIAACsAAAAAzczMzMwUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:14:49.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.API\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaVault.API\\Program.cs",
+              "ToolTip": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.API\\Program.cs",
+              "RelativeToolTip": "CinemaVault.API\\Program.cs",
+              "ViewState": "AgIAABAAAAAAZmZmZmYewBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:06:22.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CinemaVault.API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\wtwat2004\\OneDrive\\Desktop\\Projects\\CinemaVault\\CinemaVault.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CinemaVault.API\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAMAAADAZmZmZmYkwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:03:29.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
