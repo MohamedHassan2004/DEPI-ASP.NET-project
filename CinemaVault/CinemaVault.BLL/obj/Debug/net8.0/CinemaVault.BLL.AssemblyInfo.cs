@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CinemaVault.BLL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+492cdff3ca91451c2961a83496341efe276a10b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("CinemaVault.BLL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CinemaVault.BLL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
